@@ -1,4 +1,4 @@
-# Asynchronous_FIFO
+# Asynchronous_FIFO\n 
 <img width="421" alt="image" src="https://github.com/BMMADHUMITHA/Asynchronous_FIFO/assets/134037700/598be7f5-c445-4e94-ac12-9e924f812cf3">
 Asynchronous FIFO (First-In-First-Out) designs are used over synchronous FIFOs in certain situations due to their ability to handle data transfers between different clock domains, where the two clocks operate at different frequencies or are not synchronized.
 FIFO FULL & EMPTY CONDITION
